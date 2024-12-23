@@ -1,0 +1,43 @@
+{
+  "users": [
+    {
+      "username": "user1",
+      "email": "anoire..",
+      "password": "password123"
+    },
+    {
+      "username": "user2",
+      "email": "anoir..",
+      "password": "password456"
+    },
+    {
+      "username": "user3",
+      "email": "anoire.",
+      "password": "password789"
+    },
+    {
+      "id": 1734966228097,
+      "username": "newuser",
+      "email": "newuser@example.com",
+      "password": "$2b$10$hFgKK5ZFtuFX5mNNKoQGaer4g53ZRZ1.rLAn5bnXCTHeKLbR3EY2."
+    },
+    {
+      "id": 1734966248159,
+      "username": "newuser",
+      "email": "newuser@exlogin com",
+      "password": "$2b$10$IOk5ZB4Woi/Ws0kyIxKOB.rEVbFGz4kOVf3FNR6sDqprkoABgIYHW"
+    },
+    {
+      "id": 1734966338931,
+      "username": "newuser",
+      "email": "newus",
+      "password": "$2b$10$FiNIGF8l.HJYRXlEylBWTu4MRsBGrGisqqLWoVyrh3k0Gd7wRPOA6"
+    },
+    {
+      "id": 1734966418295,
+      "username": "newuser",
+      "email": "neus",
+      "password": "$2b$10$qoDFttSKKx3tOVgmE4xn6uGNNWTNVt7ExksKIn/hrMPC4Q1CxjSz."
+    }
+  ]
+}
